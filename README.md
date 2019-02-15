@@ -1,5 +1,5 @@
 # pig-hive-hue
-## Clean Telco dataset using Pig &amp; perform analysis using Hive
+Clean Telco dataset using Pig &amp; perform analysis using Hive
 
 ## Objective
 Given an unclean telco dataset and our aim is to clean this dataset and store it in Hive to perform analysis
